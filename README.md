@@ -1,0 +1,4 @@
+planning
+========
+
+Ruby Usergroup Hamburg
