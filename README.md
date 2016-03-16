@@ -6,15 +6,15 @@ You want to help organizing RUGHH, go ahead!
 
 ## Vortragen / Talking
 
-Wer einen Vortrag halten will, oder sonstige Informationen rund um das Thema RUGHH haben möchte, der kann einfach ein Issue hier einstellen.
+Wer einen Vortrag halten will, oder sonstige Informationen rund um das Thema RUGHH haben möchte, der kann einfach ein Issue hier einstellen oder direkt auf [hamburg.onruby.de](http://hamburg.onruby.de/topics/new).
 
-If you want to give a talk or have any other question concerning RUGHH, just open an issue.
+If you want to give a talk or have any other question concerning RUGHH, just open an issue or add it directly on [hamburg.onruby.de](http://hamburg.onruby.de/topics/new?lang=en).
 
 ## Ausrichten / Hosting
 
-Gleiches gilt für das Ausrichten einer Usergroup. Wenn du oder deine Firma gerne einmal die Usergroup beherbergen möchtet, dann macht einfach ein Issue auf und helft uns dabei.
+Gleiches gilt für das Ausrichten einer Usergroup. Wenn du oder [deine Firma gerne einmal die Usergroup beherbergen möchtet](http://hamburg.onruby.de/locations/none), dann macht einfach ein Issue auf und helft uns dabei.
 
-If you want to provide a location for the hosting of one of our usergroups, go ahead and open a ticket with some information about it.
+If you want to provide a [location for the hosting of one of our usergroups](http://hamburg.onruby.de/locations/none?locale=en), go ahead and open a ticket with some information about it.
 
 ## Stickers
 
