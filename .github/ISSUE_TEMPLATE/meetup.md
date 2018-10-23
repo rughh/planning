@@ -1,3 +1,9 @@
+---
+name: meetup
+about: The setup a meetup use this checklist
+
+---
+
 {Date of the meetup} {Time of the meetup}
 
 - [ ] Location
