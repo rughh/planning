@@ -4,7 +4,7 @@ about: The setup a meetup use this checklist
 
 ---
 
-{Date of the meetup} {Time of the meetup}
+{Date of the meetup} {Time of the meetup} @ {location}
 
 - [ ] Location
 - [ ] [Create Event](http://hamburg.onruby.de/admin/)
