@@ -39,6 +39,11 @@ We believe everyone should be able to host the meetup. A limited budget, because
 ## When do you want to host us?
 {Date of the meetup} {Time of the meetup}
 
+## Is the location address still update to date?
+On our [website](https://hamburg.onruby.de/locations) we offer directions to the location. Please check if your address is still correct: 
+[ ] Yes
+[ ] No (please comment the correct address below)
+
 ## What do you want to offer?
 [x] alcohol free beverages
 [ ] beer (optional)
