@@ -7,7 +7,7 @@ Thank you for wanting to host the Ruby Usergroup Hamburg!
 Here we have collected some informations regarding hosting the Usergroup.
 Additionally to better planning it would be great if you could answer the questions at the end of the issue
 
-#FAQ
+# FAQ
 
 ## When can I host the meetup
 We meet every **second Wednesday** of the month
@@ -31,7 +31,7 @@ You don't need to make a fuss, we are cool with the bare minimum!
 We believe everyone should be able to host the meetup. A limited budget because you are a NGO or a small company should not be a stopper.
 
 
-#Planning
+# Planning
 
 ## Who is the person we can contact in case of questions?
 
