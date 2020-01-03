@@ -4,8 +4,8 @@ about: Wanting to host the meetup? Answer the following questions
 ---
 
 Thank you for wanting to host the Ruby Usergroup Hamburg!
-Here we have collected some informations regarding hosting the Usergroup.
-Additionally to better planning it would be great if you could answer the questions at the end of the issue
+Here we have collected some information regarding hosting the Usergroup.
+Additionally, to better planning, it would be great if you could answer the questions at the end of the issue
 
 # FAQ
 
@@ -22,13 +22,13 @@ If you don't have a lot of space, it's also possible to *limit* the number of pa
 
 ## What's needed for a Usergroup?
 The location, of course, but there is more to it:
-  * alcohol free beverages
-  * beamer and adapters
-  * beer (optional)
-  * snacks/pizza (optional)
+ * alcohol-free beverages
+ * beamer and adapters
+ * beer (optional)
+ * snacks/pizza (optional)
 
 You don't need to make a fuss, we are cool with the bare minimum!
-We believe everyone should be able to host the meetup. A limited budget because you are a NGO or a small company should not be a stopper.
+We believe everyone should be able to host the meetup. A limited budget, because you are an NGO or a small company, should not be a stopper.
 
 
 # Planning
