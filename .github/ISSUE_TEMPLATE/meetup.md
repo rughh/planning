@@ -7,6 +7,7 @@ about: To setup a meetup use this checklist
 
 - [ ] Location
 - [ ] [Create Event](http://hamburg.onruby.de/admin/)
+- [ ] Add Issue ID to Event
 - [ ] [Talks / Format](https://github.com/rughh/planning/wiki/Speaker-Checklist)
 - [ ] Promotion on Twitter
 - [ ] [Adjust Slides](https://docs.google.com/presentation/d/1qbNdAffMiYkPWUrUd5xeWHq6ge6vhIVQtuZomdiSorU/edit?usp=sharing)
