@@ -23,8 +23,4 @@ On our [website](https://hamburg.onruby.de/locations) we offer directions to the
 [ ] snacks (optional) 
 [ ] dinner (pizza, pretzels, etc.) (optional)
 
-## Will you need some compensation?
-[ ] Yes
-[ ] No
-
 Thanks for your help!
