@@ -1,13 +1,13 @@
 ---
 name: meetup
-about: The setup a meetup use this checklist
-
+about: To setup a meetup use this checklist
 ---
 
-{Date of the meetup} {Time of the meetup}
+{Date of the meetup} {Time of the meetup} @ {location}
 
 - [ ] Location
 - [ ] [Create Event](http://hamburg.onruby.de/admin/)
+- [ ] Add Issue ID to Event
 - [ ] [Talks / Format](https://github.com/rughh/planning/wiki/Speaker-Checklist)
 - [ ] Promotion on Twitter
 - [ ] [Adjust Slides](https://docs.google.com/presentation/d/1qbNdAffMiYkPWUrUd5xeWHq6ge6vhIVQtuZomdiSorU/edit?usp=sharing)
