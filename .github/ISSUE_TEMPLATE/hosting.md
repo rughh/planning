@@ -37,7 +37,7 @@ We believe everyone should be able to host the meetup. A limited budget because 
 
 
 ## When do you want to host us?
-{Date of the meetup} {Time of the meetup}
+{yyyy-mm-dd} 19:00
 
 ## What do you want to offer?
 [x] alcohol free beverages
