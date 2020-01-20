@@ -26,4 +26,4 @@ On our [website](https://hamburg.onruby.de/locations) we offer directions to the
 [ ] snacks (optional) 
 [ ] dinner (pizza, pretzels, etc.) (optional)
 
-Thanks for your help!
+Thank you for supporting us!
