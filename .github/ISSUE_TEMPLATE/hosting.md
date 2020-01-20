@@ -4,34 +4,10 @@ about: Wanting to host the meetup? Please answer the following questions
 ---
 
 Thank you for wanting to host the Ruby Usergroup Hamburg!
-Here we have collected some informations regarding hosting the Usergroup.
-Additionally to better planning it would be great if you could answer the questions at the end of the issue
 
-#FAQ
+Everything that there is to know about hosting you will in find in our [README](https://github.com/rughh/planning#ausrichten--hosting) and on [our website](http://hamburg.onruby.de/locations/none?locale=en).
 
-## When can I host the meetup
-We meet every **second Wednesday** of the month
-Any [event](https://hamburg.onruby.de/#events) where no location is mentioned still needs one
-
-## How much space do we need?
-There have been **17** Rubyists signed up on average for the latest events and there were about **1** to **2** presentations held. 
-
-Those numbers are just guidelines, make sure to talk to one of the [organizers](https://hamburg.onruby.de/#topics) when preparing the hosting.
-
-If you don't have a lot of space, it's also possible to *limit* the number of participants.
-
-## What's needed for a Usergroup?
-The location, of course, but there is more to it:
-  * alcohol free beverages
-  * beamer and adapters
-  * beer (optional)
-  * snacks/pizza (optional)
-
-You don't need to make a fuss, we are cool with the bare minimum!
-We believe everyone should be able to host the meetup. A limited budget because you are a NGO or a small company should not be a stopper.
-
-
-#Planning
+If you are unsure when we are still looking for a location have a look at our [schedule overview](https://github.com/rughh/planning/issues/129)
 
 ## Who is the person we can contact in case of questions?
 
