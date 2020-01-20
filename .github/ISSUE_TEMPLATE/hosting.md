@@ -1,6 +1,6 @@
 ---
 name: hosting
-about: Wanting to host the meetup? Answer the following questions
+about: Wanting to host the meetup? Please answer the following questions
 ---
 
 Thank you for wanting to host the Ruby Usergroup Hamburg!
