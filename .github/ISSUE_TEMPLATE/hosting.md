@@ -1,16 +1,19 @@
 ---
 name: hosting
-about: Wanting to host the meetup? Answer the following questions
+about: Wanting to host the meetup? Please answer the following questions
 ---
 
 Thank you for wanting to host the Ruby Usergroup Hamburg!
-It would be great if you could answer the questions in the issue. This will help us to have a better overview
+
+Everything that there is to know about hosting you will in find in our [README](https://github.com/rughh/planning#ausrichten--hosting) and on [our website](http://hamburg.onruby.de/locations/none?locale=en).
+
+If you are unsure when we are still looking for a location have a look at our [schedule overview](https://github.com/rughh/planning/issues/129)
 
 ## Who is the person we can contact in case of questions?
 
 
 ## When do you want to host us?
-{Date of the meetup} {Time of the meetup}
+{yyyy-mm-dd} 19:00
 
 ## Is the location address still update to date?
 On our [website](https://hamburg.onruby.de/locations) we offer directions to the location. Please check if your address is still correct: 
